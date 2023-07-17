@@ -5,5 +5,5 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 https://github.com/Rukiye213/kodluyoruzilkrepo.git
 
 # usage
-cd project1
+cd project1     
 % code .
